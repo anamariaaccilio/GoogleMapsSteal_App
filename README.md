@@ -1,6 +1,11 @@
 # flutter_application_1
 
+<<<<<<< HEAD
 App GoogleMapsSteal
+=======
+A new Flutter project.
+
+>>>>>>> 52f102e (googlemaps)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
